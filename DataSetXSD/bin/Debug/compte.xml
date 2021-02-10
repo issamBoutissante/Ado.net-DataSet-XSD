@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<BanqueDataSet xmlns="http://tempuri.org/BanqueDataSet.xsd">
+  <Compte>
+    <Num_Compte>1</Num_Compte>
+    <Num_Client>3</Num_Client>
+    <Solde>-172.0000</Solde>
+    <TypeC>prof</TypeC>
+  </Compte>
+  <Compte>
+    <Num_Compte>2</Num_Compte>
+    <Num_Client>1</Num_Client>
+    <Solde>276.0000</Solde>
+    <TypeC>prof</TypeC>
+  </Compte>
+  <Compte>
+    <Num_Compte>3</Num_Compte>
+    <Num_Client>1</Num_Client>
+    <Solde>40296591130624.0000</Solde>
+    <TypeC>education </TypeC>
+  </Compte>
+  <Compte>
+    <Num_Compte>4</Num_Compte>
+    <Num_Client>2</Num_Client>
+    <Solde>1355599052800.0000</Solde>
+    <TypeC>education</TypeC>
+  </Compte>
+  <Compte>
+    <Num_Compte>5</Num_Compte>
+    <Num_Client>1</Num_Client>
+    <Solde>1000.0000</Solde>
+    <TypeC>education</TypeC>
+  </Compte>
+  <Compte>
+    <Num_Compte>6</Num_Compte>
+    <Num_Client>1</Num_Client>
+    <Solde>100</Solde>
+    <TypeC>education</TypeC>
+  </Compte>
+</BanqueDataSet>

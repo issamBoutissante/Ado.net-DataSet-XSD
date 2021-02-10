@@ -1,0 +1,13 @@
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\bin\Debug\DataSetXSD.exe.config
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\bin\Debug\DataSetXSD.exe
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\bin\Debug\DataSetXSD.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.Form1.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.Navigation_Compte.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.Properties.Resources.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.csproj.GenerateResource.cache
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.exe
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.Ajout_Compte.resources
+C:\Users\bouti\OneDrive\سطح المكتب\desktop dev client serveur\exercises\DataSetXSD\DataSetXSD\obj\Debug\DataSetXSD.Supprimer_Compte.resources
